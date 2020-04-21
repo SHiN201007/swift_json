@@ -1,0 +1,16 @@
+{
+  "userInfo": [
+      {
+          "name": "山田さん",
+          "image": "https://cdn.pixabay.com/photo/2020/04/18/20/39/cat-5060958_1280.jpg"
+      },
+      {
+          "name": "田中さん",
+          "image": "https://cdn.pixabay.com/photo/2020/04/14/11/16/fox-5042210_1280.jpg"
+      },
+      {
+          "name": "鈴木さん",
+          "image": "https://cdn.pixabay.com/photo/2020/04/18/17/10/bernese-mountain-dog-5060025_1280.jpg"
+      }
+  ]
+}
